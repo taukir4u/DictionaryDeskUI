@@ -1,0 +1,8 @@
+H:\Taukir\DictionaryDeskUI\DictionaryDeskUI\bin\Debug\DictionaryDeskUI.exe.config
+H:\Taukir\DictionaryDeskUI\DictionaryDeskUI\bin\Debug\DictionaryDeskUI.exe
+H:\Taukir\DictionaryDeskUI\DictionaryDeskUI\bin\Debug\DictionaryDeskUI.pdb
+H:\Taukir\DictionaryDeskUI\DictionaryDeskUI\obj\Debug\DictionaryDeskUI.DictionaryAppUI.resources
+H:\Taukir\DictionaryDeskUI\DictionaryDeskUI\obj\Debug\DictionaryDeskUI.Properties.Resources.resources
+H:\Taukir\DictionaryDeskUI\DictionaryDeskUI\obj\Debug\DictionaryDeskUI.csproj.GenerateResource.Cache
+H:\Taukir\DictionaryDeskUI\DictionaryDeskUI\obj\Debug\DictionaryDeskUI.exe
+H:\Taukir\DictionaryDeskUI\DictionaryDeskUI\obj\Debug\DictionaryDeskUI.pdb
